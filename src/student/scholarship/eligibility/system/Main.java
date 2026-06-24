@@ -35,7 +35,7 @@ public class Main {
             
             Student student = new Student(studentName, studentID, GPA, activityLevel);
 
-            
+            student.calculateScholarship();
 
         }
 
