@@ -63,7 +63,7 @@ public class Student {
     public void displayDetails() {
         System.out.println("\n\n");
         System.out.println("Student Details:");
-        System.out.println("\n");
+        System.out.println("");
         System.out.println("Student Name: " + studentName);
         System.out.println("Student ID: " + studentID);
         System.out.println("GPA: " + GPA);
